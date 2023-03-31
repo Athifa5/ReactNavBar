@@ -1,0 +1,9 @@
+.content{
+    display: grid;
+    justify-content: center ;
+    font-size: larger;
+    padding: 10%;
+}
+.gap{
+    padding-top: 35%;
+}
